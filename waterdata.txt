@@ -1,0 +1,110 @@
+
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database 
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://waterdata.usgs.gov/provisional-data-statement/
+#
+# Contact:   gs-w_waterdata_support@usgs.gov
+# retrieved: 2024-12-16 13:08:49 EST       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 03451500 FRENCH BROAD RIVER AT ASHEVILLE, NC
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 03451500
+#            TS   parameter     statistic     Description
+#        249449       00400     00001     pH, water, unfiltered, field, standard units (Maximum)
+#        249450       00400     00002     pH, water, unfiltered, field, standard units (Minimum)
+#        249451       00400     00008     pH, water, unfiltered, field, standard units (Median)
+#        249453       00300     00002     Dissolved oxygen, water, unfiltered, milligrams per liter (Minimum)
+#        249454       00300     00001     Dissolved oxygen, water, unfiltered, milligrams per liter (Maximum)
+#        249455       00300     00003     Dissolved oxygen, water, unfiltered, milligrams per liter (Mean)
+#        249457       00095     00001     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Maximum)
+#        249458       00095     00003     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Mean)
+#        249459       00095     00002     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Minimum)
+#        249471       63680     00002     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Minimum)
+#        249472       63680     00001     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Maximum)
+#        249473       63680     00003     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Mean)
+#         87920       00010     00001     Temperature, water, degrees Celsius (Maximum)
+#         87921       00010     00002     Temperature, water, degrees Celsius (Minimum)
+#         87922       00010     00003     Temperature, water, degrees Celsius (Mean)
+#         87923       00060     00001     Discharge, cubic feet per second (Maximum)
+#         87924       00060     00002     Discharge, cubic feet per second (Minimum)
+#         87925       00060     00003     Discharge, cubic feet per second (Mean)
+#         87926       00065     00001     Gage height, feet (Maximum)
+#         87927       00065     00002     Gage height, feet (Minimum)
+#         87928       00065     00003     Gage height, feet (Mean)
+#         87929       00045     00006     Precipitation, total, inches (Sum)
+#
+# Data-value qualification codes included in this output:
+#     A  Approved for publication -- Processing and review completed.
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	249449_00400_00001	249449_00400_00001_cd	249450_00400_00002	249450_00400_00002_cd	249451_00400_00008	249451_00400_00008_cd	249453_00300_00002	249453_00300_00002_cd	249454_00300_00001	249454_00300_00001_cd	249455_00300_00003	249455_00300_00003_cd	249457_00095_00001	249457_00095_00001_cd	249458_00095_00003	249458_00095_00003_cd	249459_00095_00002	249459_00095_00002_cd	249471_63680_00002	249471_63680_00002_cd	249472_63680_00001	249472_63680_00001_cd	249473_63680_00003	249473_63680_00003_cd	87920_00010_00001	87920_00010_00001_cd	87921_00010_00002	87921_00010_00002_cd	87922_00010_00003	87922_00010_00003_cd	87925_00060_00003	87925_00060_00003_cd	87928_00065_00003	87928_00065_00003_cd	87929_00045_00006	87929_00045_00006_cd
+5s	15s	20d	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s
+USGS	03451500	2024-10-01	6.7	P	6.6	P	6.6	P	6.7	P	7.3	P	7.0	P	35	P	33	P	31	P	26.6	P	51.2	P	37.5	P	19.0	P	18.3	P	18.6	P	9880	P	5.99	P	0.01	A
+USGS	03451500	2024-10-02	6.8	P	6.7	P	6.7	P	7.3	P	7.6	P	7.4	P	41	P	38	P	35	P	23.5	P	39.0	P	30.9	P	19.3	P	18.3	P	18.7	P	6380	P	4.49	P	0.00	A
+USGS	03451500	2024-10-03	6.9	P	6.8	P	6.9	P	7.6	P	8.1	P	7.9	P	44	P	43	P	41	P	23.1	P	36.1	P	28.7	P	19.5	P	18.2	P	18.7	P	4050	P	3.42	P	0.00	A
+USGS	03451500	2024-10-04	7.0	P	6.9	P	6.9	P	8.1	P	8.2	P	8.2	P	44	P	44	P	43	P	21.1	P	29.2	P	25.0	P	19.1	P	18.0	P	18.5	P	3400	P	3.07	P	0.00	A
+USGS	03451500	2024-10-05	7.0	P	6.9	P	7.0	P	8.1	P	8.3	P	8.2	P	46	P	44	P	43	P	17.7	P	27.8	P	23.7	P	19.9	P	18.0	P	18.9	P	3070	P	2.90	P	0.00	A
+USGS	03451500	2024-10-06	7.1	P	7.0	P	7.0	P	8.1	P	8.3	P	8.2	P	46	P	45	P	44	P	16.0	P	23.5	P	18.9	P	19.7	P	18.0	P	18.9	P	2780	P	2.75	P	0.00	A
+USGS	03451500	2024-10-07	7.1	P	7.0	P	7.0	P	8.1	P	8.3	P	8.2	P	44	P	44	P	43	P	13.4	P	32.0	P	18.6	P	19.5	P	17.8	P	18.7	P	2570	P	2.63	P	0.00	A
+USGS	03451500	2024-10-08	7.1	P	7.0	P	7.1	P	8.2	P	8.5	P	8.3	P	44	P	44	P	43	P	11.6	P	27.4	P	16.1	P	18.9	P	17.3	P	18.2	P	2410	P	2.53	P	0.00	A
+USGS	03451500	2024-10-09	7.2	P	7.0	P	7.1	P	8.3	P	8.7	P	8.6	P	44	P	44	P	43	P	11.5	P	22.6	P	15.5	P	18.2	P	16.5	P	17.4	P	2260	P	2.43	P	0.00	A
+USGS	03451500	2024-10-10	7.3	P	7.0	P	7.1	P	8.6	P	9.1	P	8.8	P	47	P	45	P	44	P	12.8	P	22.4	P	17.1	P	17.3	P	15.6	P	16.5	P	2120	P	2.34	P	0.00	A
+USGS	03451500	2024-10-11	7.3	P	7.2	P	7.2	P	8.9	P	9.4	P	9.1	P	48	P	47	P	46	P	11.5	P	16.1	P	13.5	P	16.4	P	14.6	P	15.6	P	2000	P	2.27	P	0.00	A
+USGS	03451500	2024-10-12	7.3	P	7.2	P	7.2	P	9.1	P	9.6	P	9.3	P	47	P	47	P	46	P	10.8	P	75.0	P	19.4	P	15.6	P	13.6	P	14.8	P	1910	P	2.22	P	0.00	A
+USGS	03451500	2024-10-13	7.3	P	7.2	P	7.2	P	9.2	P	9.6	P	9.4	P	48	P	47	P	47	P	10.3	P	23.5	P	14.8	P	15.9	P	13.6	P	14.9	P	1830	P	2.17	P	0.00	A
+USGS	03451500	2024-10-14	7.4	P	7.2	P	7.2	P	9.0	P	9.4	P	9.2	P	48	P	48	P	47	P	9.6	P	15.5	P	11.7	P	16.0	P	14.6	P	15.3	P	1760	P	2.13	P	0.00	A
+USGS	03451500	2024-10-15	7.3	P	7.2	P	7.3	P	9.2	P	9.8	P	9.5	P	50	P	49	P	48	P	7.9	P	10.5	P	9.1	P	15.0	P	12.8	P	13.6	P	1680	P	2.08	P	0.00	A
+USGS	03451500	2024-10-16	7.4	P	7.2	P	7.3	P	9.6	P	10.4	P	10.0	P	50	P	49	P	49	P	6.9	P	10.3	P	8.1	P	12.8	P	11.5	P	12.0	P	1620	P	2.04	P	0.01	A
+USGS	03451500	2024-10-17	7.4	P	7.2	P	7.3	P	10.1	P	10.5	P	10.3	P	49	P	49	P	49	P	6.9	P	10.6	P	8.4	P	12.2	P	10.3	P	11.4	P	1560	P	2.00	P	0.00	A
+USGS	03451500	2024-10-18	7.4	P	7.2	P	7.3	P	10.2	P	10.7	P	10.4	P	50	P	49	P	48	P	6.5	P	8.7	P	7.6	P	12.3	P	10.1	P	11.3	P	1510	P	1.97	P	0.00	A
+USGS	03451500	2024-10-19	7.4	P	7.2	P	7.3	P	10.2	P	10.7	P	10.4	P	50	P	49	P	49	P	6.7	P	8.6	P	7.3	P	12.3	P	10.4	P	11.5	P	1490	P	1.95	P	0.00	A
+USGS	03451500	2024-10-20	7.4	P	7.2	P	7.3	P	10.2	P	10.7	P	10.4	P	49	P	49	P	48	P	5.8	P	9.1	P	7.1	P	12.7	P	10.5	P	11.8	P	1440	P	1.92	P	0.00	A
+USGS	03451500	2024-10-21	7.5	P	7.2	P	7.4	P	10.0	P	10.6	P	10.3	P	49	P	49	P	48	P	5.2	P	7.0	P	6.0	P	13.3	P	11.1	P	12.3	P	1410	P	1.90	P	0.00	A
+USGS	03451500	2024-10-22	7.5	P	7.2	P	7.4	P	9.9	P	10.6	P	10.2	P	50	P	49	P	49	P	5.2	P	7.8	P	6.1	P	13.7	P	11.6	P	12.8	P	1380	P	1.88	P	0.00	A
+USGS	03451500	2024-10-23	7.6	P	7.3	P	7.4	P	9.7	P	10.6	P	10.1	P	50	P	49	P	49	P	5.1	P	10.0	P	6.2	P	14.2	P	12.0	P	13.3	P	1360	P	1.86	P	0.00	A
+USGS	03451500	2024-10-24	7.6	P	7.3	P	7.5	P	9.5	P	10.6	P	10.0	P	51	P	49	P	49	P	4.4	P	6.1	P	5.3	P	14.7	P	12.8	P	13.8	P	1330	P	1.84	P	0.00	A
+USGS	03451500	2024-10-25	7.7	P	7.3	P	7.5	P	9.5	P	10.8	P	10.1	P	52	P	49	P	48	P	4.6	P	6.0	P	5.2	P	14.5	P	12.4	P	13.6	P	1300	P	1.82	P	0.00	A
+USGS	03451500	2024-10-26	7.6	P	7.2	P	7.5	P	9.4	P	10.5	P	9.9	P	59	P	52	P	48	P	4.9	P	34.8	P	10.8	P	14.8	P	13.0	P	14.1	P	1290	P	1.81	P	0.21	A
+USGS	03451500	2024-10-27	7.6	P	7.2	P	7.4	P	9.2	P	10.4	P	9.7	P	52	P	51	P	50	P	4.5	P	9.7	P	5.8	P	14.7	P	13.8	P	14.2	P	1310	P	1.83	P	0.00	A
+USGS	03451500	2024-10-28	7.8	P	7.2	P	7.5	P	9.3	P	10.8	P	9.9	P	52	P	51	P	49	P	4.1	P	7.5	P	5.1	P	15.1	P	13.5	P	14.2	P	1300	P	1.82	P	0.00	A
+USGS	03451500	2024-10-29	8.0	P	7.2	P	7.5	P	9.3	P	11.0	P	9.9	P	52	P	51	P	50	P	4.4	P	6.6	P	5.4	P	15.4	P	13.6	P	14.6	P	1280	P	1.80	P	0.00	A
+USGS	03451500	2024-10-30	7.8	P	7.2	P	7.4	P	9.1	P	10.5	P	9.6	P	54	P	51	P	50	P	4.8	P	12.8	P	7.4	P	16.3	P	14.6	P	15.5	P	1290	P	1.81	P	0.00	A
+USGS	03451500	2024-10-31	8.0	P	7.2	P	7.4	P	8.9	P	10.6	P	9.5	P	50	P	49	P	48	P	4.6	P	9.9	P	6.5	P	16.9	P	15.2	P	16.2	P	1240	P	1.78	P	0.00	A
+USGS	03451500	2024-11-01	7.5	P	7.2	P	7.4	P	8.8	P	9.7	P	9.2	P	53	P	51	P	49	P	4.2	P	11.4	P	7.0	P	16.4	P	15.5	P	15.9	P	1220	P	1.76	P	0.03	A
+USGS	03451500	2024-11-02	8.0	P	7.2	P	7.5	P	8.8	P	10.5	P	9.5	P	54	P	52	P	51	P	4.2	P	7.5	P	5.6	P	17.0	P	15.4	P	16.2	P	1220	P	1.76	P	0.00	A
+USGS	03451500	2024-11-03	8.2	P	7.2	P	7.5	P	8.7	P	10.5	P	9.4	P	53	P	52	P	51	P	3.8	P	7.3	P	5.3	P	17.3	P	16.0	P	16.6	P	1200	P	1.75	P	0.00	A
+USGS	03451500	2024-11-04	7.7	P	7.3	P	7.5	P	8.8	P	9.9	P	9.3	P	53	P	52	P	51	P	3.7	P	13.2	P	6.1	P	16.5	P	15.1	P	15.5	P	1180	P	1.73	P	0.00	A
+USGS	03451500	2024-11-05	7.8	P	7.3	P	7.5	P	9.0	P	10.2	P	9.5	P	55	P	53	P	52	P	4.1	P	13.2	P	7.2	P	15.8	P	14.6	P	15.2	P	1220	P	1.76	P	0.00	A
+USGS	03451500	2024-11-06	8.0	P	7.3	P	7.5	P	8.9	P	10.2	P	9.5	P	53	P	51	P	50	P	5.8	P	11.8	P	7.8	P	16.8	P	15.1	P	16.0	P	1330	P	1.84	P	0.00	A
+USGS	03451500	2024-11-07	7.9	P	7.2	P	7.5	P	8.6	P	10.3	P	9.3	P	52	P	51	P	50	P	4.4	P	17.1	P	6.2	P	17.7	P	15.9	P	16.9	P	1290	P	1.81	P	0.00	A
+USGS	03451500	2024-11-08	8.1	P	7.2	P	7.5	P	8.5	P	10.3	P	9.2	P	52	P	51	P	49	P	4.0	P	5.8	P	4.7	P	18.4	P	16.7	P	17.6	P	1240	P	1.77	P	0.00	A
+USGS	03451500	2024-11-09	8.4	P	7.2	P	7.6	P	8.4	P	10.5	P	9.3	P	52	P	51	P	50	P	3.5	P	5.3	P	4.2	P	17.9	P	16.2	P	17.0	P	1180	P	1.73	P	0.00	A
+USGS	03451500	2024-11-10	7.6	P	7.3	P	7.4	P	8.7	P	9.9	P	9.3	P	53	P	51	P	50	P	3.4	P	5.7	P	4.1	P	16.6	P	15.1	P	15.5	P	1150	P	1.71	P	0.01	A
+USGS	03451500	2024-11-11	8.4	P	7.3	P	7.6	P	8.9	P	10.6	P	9.6	P	53	P	51	P	50	P	3.5	P	6.1	P	4.4	P	16.1	P	14.6	P	15.3	P	1190	P	1.74	P	0.01	A
+USGS	03451500	2024-11-12	8.2	P	7.3	P	7.6	P	9.0	P	10.9	P	9.7	P	52	P	50	P	48	P	4.0	P	7.6	P	5.1	P	15.2	P	13.7	P	14.5	P	1220	P	1.77	P	0.00	A
+USGS	03451500	2024-11-13	8.3	P	7.3	P	7.5	P	9.3	P	11.2	P	10.1	P	50	P	50	P	49	P	3.7	P	6.3	P	4.5	P	14.4	P	12.6	P	13.3	P	1140	P	1.70	P	0.00	A
+USGS	03451500	2024-11-14	7.5	P	7.3	P	7.4	P	9.6	P	10.1	P	9.8	P	59	P	53	P	49	P	4.0	P	39.7	P	15.4	P	12.7	P	11.4	P	11.9	P	1370	P	1.86	P	0.45	A
+USGS	03451500	2024-11-15	7.3	P	7.2	P	7.3	P	9.7	P	10.2	P	10.0	P	54	P	51	P	46	P	11.5	P	15.7	P	13.2	P	11.7	P	11.1	P	11.3	P	1990	P	2.27	P	0.01	A
+USGS	03451500	2024-11-16	7.5	P	7.2	P	7.3	P	9.9	P	10.9	P	10.3	P	47	P	46	P	44	P	7.2	P	13.8	P	9.7	P	11.8	P	10.4	P	11.1	P	1600	P	2.02	P	0.00	A
+USGS	03451500	2024-11-17	7.6	P	7.2	P	7.3	P	10.0	P	11.1	P	10.5	P	48	P	48	P	46	P	5.2	P	8.1	P	6.5	P	11.5	P	10.0	P	10.8	P	1320	P	1.83	P	0.00	A
+USGS	03451500	2024-11-18	7.6	P	7.2	P	7.4	P	10.2	P	11.3	P	10.6	P	49	P	48	P	47	P	4.3	P	6.7	P	5.1	P	11.5	P	9.8	P	10.8	P	1260	P	1.79	P	0.00	A
+USGS	03451500	2024-11-19	7.5	P	7.2	P	7.3	P	10.0	P	10.8	P	10.3	P	48	P	48	P	47	P	3.7	P	5.1	P	4.4	P	11.5	P	10.4	P	11.0	P	1230	P	1.77	P	0.00	A
+USGS	03451500	2024-11-20	7.4	P	7.1	P	7.3	P	9.6	P	10.2	P	9.9	P	58	P	51	P	48	P	4.1	P	18.9	P	12.3	P	13.1	P	11.4	P	12.2	P	1470	P	1.94	P	0.27	A
+USGS	03451500	2024-11-21	7.5	P	7.2	P	7.3	P	9.8	P	10.7	P	10.2	P	52	P	50	P	47	P	6.7	P	11.5	P	8.3	P	11.9	P	10.2	P	10.7	P	1490	P	1.95	P	0.00	A
+USGS	03451500	2024-11-22	7.5	P	7.2	P	7.3	P	10.2	P	11.2	P	10.6	P	48	P	47	P	46	P	5.1	P	9.7	P	6.7	P	10.2	P	8.6	P	9.1	P	1350	P	1.86	P	0.00	A
+USGS	03451500	2024-11-23	7.6	P	7.2	P	7.4	P	10.8	P	11.7	P	11.2	P	49	P	48	P	48	P	3.9	P	6.3	P	5.0	P	8.7	P	7.4	P	8.1	P	1250	P	1.78	P	0.00	A
+USGS	03451500	2024-11-24	7.5	P	7.2	P	7.4	P	11.0	P	11.9	P	11.4	P	49	P	49	P	48	P	3.3	P	4.6	P	3.8	P	8.4	P	6.9	P	7.8	P	1210	P	1.76	P	0.00	A
+USGS	03451500	2024-11-25	7.5	P	7.2	P	7.3	P	11.0	P	11.9	P	11.4	P	50	P	49	P	48	P	3.3	P	4.5	P	3.7	P	8.8	P	6.7	P	7.9	P	1180	P	1.73	P	0.00	P
+USGS	03451500	2024-11-26	7.5	P	7.2	P	7.3	P	10.6	P	11.4	P	10.9	P	56	P	51	P	49	P	3.6	P	6.2	P	4.5	P	9.8	P	8.8	P	9.2	P	1180	P	1.73	P	0.19	P
+USGS	03451500	2024-11-27	7.6	P	7.2	P	7.4	P	10.7	P	11.6	P	11.0	P	50	P	49	P	49	P	3.2	P	4.7	P	3.8	P	9.5	P	8.1	P	9.0	P	1180	P	1.73	P	0.00	P
+USGS	03451500	2024-11-28	7.5	P	7.2	P	7.3	P	10.4	P	11.2	P	10.7	P	53	P	50	P	49	P	4.0	P	5.2	P	4.6	P	10.2	P	9.0	P	9.5	P	1180	P	1.73	P	0.11	P
+USGS	03451500	2024-11-29	7.6	P	7.2	P	7.4	P	10.7	P	11.7	P	11.1	P	51	P	49	P	48	P	3.1	P	4.9	P	3.8	P	9.0	P	7.1	P	8.2	P	1170	P	1.73	P	0.00	P
+USGS	03451500	2024-11-30	7.6	P	7.2	P	7.4	P	11.2	P	12.4	P	11.8	P	49	P	48	P	47	P	3.0	P	4.1	P	3.3	P	7.1	P	5.5	P	6.1	P	1120	P	1.69	P	0.00	P
+USGS	03451500	2024-12-01	7.5	P	7.2	P	7.4	P	11.8	P	12.7	P	12.2	P	49	P	48	P	47	P	2.7	P	4.3	P	3.1	P	5.7	P	4.5	P	5.1	P	1080	P	1.65	P	0.00	P

@@ -1,0 +1,110 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database 
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://waterdata.usgs.gov/provisional-data-statement/
+#
+# Contact:   gs-w_waterdata_support@usgs.gov
+# retrieved: 2024-12-17 09:19:47 EST       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 03451500 FRENCH BROAD RIVER AT ASHEVILLE, NC
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 03451500
+#            TS   parameter     statistic     Description
+#        249449       00400     00001     pH, water, unfiltered, field, standard units (Maximum)
+#        249450       00400     00002     pH, water, unfiltered, field, standard units (Minimum)
+#        249451       00400     00008     pH, water, unfiltered, field, standard units (Median)
+#        249453       00300     00002     Dissolved oxygen, water, unfiltered, milligrams per liter (Minimum)
+#        249454       00300     00001     Dissolved oxygen, water, unfiltered, milligrams per liter (Maximum)
+#        249455       00300     00003     Dissolved oxygen, water, unfiltered, milligrams per liter (Mean)
+#        249457       00095     00001     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Maximum)
+#        249458       00095     00003     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Mean)
+#        249459       00095     00002     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius (Minimum)
+#        249471       63680     00002     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Minimum)
+#        249472       63680     00001     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Maximum)
+#        249473       63680     00003     Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU) (Mean)
+#         87920       00010     00001     Temperature, water, degrees Celsius (Maximum)
+#         87921       00010     00002     Temperature, water, degrees Celsius (Minimum)
+#         87922       00010     00003     Temperature, water, degrees Celsius (Mean)
+#         87923       00060     00001     Discharge, cubic feet per second (Maximum)
+#         87924       00060     00002     Discharge, cubic feet per second (Minimum)
+#         87925       00060     00003     Discharge, cubic feet per second (Mean)
+#         87926       00065     00001     Gage height, feet (Maximum)
+#         87927       00065     00002     Gage height, feet (Minimum)
+#         87928       00065     00003     Gage height, feet (Mean)
+#         87929       00045     00006     Precipitation, total, inches (Sum)
+#
+# Data-value qualification codes included in this output:
+#        
+#     A  Approved for publication -- Processing and review completed.
+#     4  Statistic computed from less than expected number of instantaneous values for the period
+# 
+agency_cd	site_no	datetime	249449_00400_00001	249449_00400_00001_cd	249450_00400_00002	249450_00400_00002_cd	249451_00400_00008	249451_00400_00008_cd	249453_00300_00002	249453_00300_00002_cd	249454_00300_00001	249454_00300_00001_cd	249455_00300_00003	249455_00300_00003_cd	249457_00095_00001	249457_00095_00001_cd	249458_00095_00003	249458_00095_00003_cd	249459_00095_00002	249459_00095_00002_cd	249471_63680_00002	249471_63680_00002_cd	249472_63680_00001	249472_63680_00001_cd	249473_63680_00003	249473_63680_00003_cd	87920_00010_00001	87920_00010_00001_cd	87921_00010_00002	87921_00010_00002_cd	87922_00010_00003	87922_00010_00003_cd	87925_00060_00003	87925_00060_00003_cd	87928_00065_00003	87928_00065_00003_cd	87929_00045_00006	87929_00045_00006_cd
+5s	15s	20d	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s	14n	10s
+USGS	03451500	2021-10-01	8.4	A	7.0	A	7.4	A	8.3	A	10.1	A	9.0	A	43	A	42	A	40	A	2.2	A	4.6	A	2.9	A	19.8	A	18.1	A	19.1	A	1130	A	1.67	A	0.00	A
+USGS	03451500	2021-10-02	8.2	A	7.0	A	7.3	A	8.2	A	9.8	A	8.9	A	42	A	41	A	41	A	1.8	A	3.6	A	2.5	A	20.1	A	18.7	A	19.5	A	1110	A	1.65	A	0.00	A
+USGS	03451500	2021-10-03	7.5	A	7.0	A	7.2	A	8.1	A	9.2	A	8.6	A	47	A	43	A	41	A							20.0	A	19.1	A	19.4	A	1110	A	1.65	A	0.25	A
+USGS	03451500	2021-10-04	7.8	A	7.0	A	7.1	A	8.1	A	9.6	A	8.6	A	45	A	43	A	41	A							20.1	A	18.5	A	19.2	A	1220	A	1.73	A	0.08	A
+USGS	03451500	2021-10-05	7.2	A	7.0	A	7.1	A	8.2	A	9.0	A	8.5	A	44	A	42	A	41	A							19.5	A	18.5	A	18.9	A	1370	A	1.84	A	0.14	A
+USGS	03451500	2021-10-06	7.0	A	6.8	A	6.9	A	8.0	A	8.5	A	8.2	A	48	A	44	A	41	A							19.1	A	18.6	A	18.9	A	2620	A	2.61	A	0.61	A
+USGS	03451500	2021-10-07	6.9	A	6.4	A	6.7	A	8.0	A	8.5	A	8.2	A	45	A	40	A	34	A							18.7	A	17.9	A	18.2	A	9920	A	5.88	A	3.89	A
+USGS	03451500	2021-10-08	6.7	A	6.5	A	6.6	A	7.8	A	8.2	A	8.0	A	36	A	35	A	33	A	35.3	A	175	A	79.9	A	18.4	A	17.9	A	18.1	A	10700	A	6.27	A	0.56	A
+USGS	03451500	2021-10-09	6.6	A	6.5	A	6.5	A	7.7	A	7.8	A	7.8	A	39	A	34	A	33	A	16.2	A	41.1	A	30.1	A	18.9	A	18.1	A	18.5	A	8930	A	5.57	A	0.05	A
+USGS	03451500	2021-10-10	6.6	A	6.4	A	6.5	A	7.8	A	7.9	A	7.9	A	33	A	33	A	32	A	12.0	A	24.6	A	18.5	A	19.2	A	18.3	A	18.6	A	7050	A	4.79	A	0.00	A
+USGS	03451500	2021-10-11	6.8	A	6.5	A	6.6	A	7.9	A	8.4	A	8.2	A	38	A	36	A	33	A	12.1	A	20.4	A	15.3	A	19.3	A	18.3	A	18.7	A	4310	A	3.53	A	0.00	A
+USGS	03451500	2021-10-12	6.9	A	6.7	A	6.8	A	8.3	A	8.8	A	8.5	A	37	A	37	A	37	A	8.4	A	13.5	A	10.3	A	19.2	A	17.9	A	18.5	A	2990	A	2.83	A	0.00	A
+USGS	03451500	2021-10-13	7.0	A	6.7	A	6.9	A	8.4	A	8.9	A	8.6	A	39	A	38	A	37	A	7.1	A	10.2	A	8.3	A	19.4	A	17.8	A	18.6	A	2570	A	2.59	A	0.00	A
+USGS	03451500	2021-10-14	7.0	A	6.8	A	6.9	A	8.4	A	9.0	A	8.6	A	39	A	39	A	38	A	6.3	A	8.2	A	7.2	A	19.3	A	17.6	A	18.6	A	2310	A	2.44	A	0.00	A
+USGS	03451500	2021-10-15	7.1	A	6.8	A	7.0	A	8.3	A	8.9	A	8.5	A	41	A	40	A	39	A	6.0	A	7.6	A	6.8	A	19.8	A	18.0	A	18.9	A	2140	A	2.33	A	0.00	A
+USGS	03451500	2021-10-16	7.2	A	6.9	A	7.0	A	8.2	A	8.9	A	8.5	A	42	A	41	A	41	A	5.6	A:[4]					19.3	A	17.1	A	18.3	A	2010	A	2.25	A	0.00	A
+USGS	03451500	2021-10-17	7.3	A	7.0	A	7.1	A	8.6	A	9.5	A	9.1	A	43	A	42	A	41	A							17.1	A	15.0	A	15.7	A	1860	A	2.16	A	0.00	A
+USGS	03451500	2021-10-18	7.3	A	7.0	A	7.1	A	9.0	A	9.9	A	9.4	A	43	A	42	A	42	A	3.7	A	5.8	A	4.6	A	15.2	A	13.4	A	14.4	A	1760	A	2.10	A	0.00	A
+USGS	03451500	2021-10-19	7.3	A	7.0	A	7.1	A	9.3	A	10.1	A	9.7	A	43	A	42	A	42	A	3.3	A	4.5	A	3.9	A	14.4	A	12.5	A	13.6	A	1700	A	2.06	A	0.00	A
+USGS	03451500	2021-10-20	7.3	A	7.0	A	7.1	A	9.5	A	10.2	A	9.8	A	43	A	42	A	42	A	3.3	A	4.5	A	3.7	A	14.3	A	12.3	A	13.5	A	1630	A	2.02	A	0.00	A
+USGS	03451500	2021-10-21	7.3	A	7.0	A	7.2	A	9.4	A	10.0	A	9.7	A	43	A	43	A	42	A	3.0	A	4.3	A	3.6	A	14.6	A	12.8	A	13.7	A	1580	A	1.98	A	0.00	A
+USGS	03451500	2021-10-22	7.4	A	7.0	A	7.2	A	9.2	A	10.0	A	9.5	A	44	A	43	A	43	A	3.2	A	4.3	A	3.7	A	15.5	A	13.9	A	14.7	A	1560	A	1.97	A	0.01	A
+USGS	03451500	2021-10-23	7.5	A	7.1	A	7.2	A	9.1	A	10.0	A	9.4	A	44	A	43	A	43	A	2.8	A	4.5	A	3.4	A	15.4	A	13.8	A	14.7	A	1520	A	1.94	A	0.00	A
+USGS	03451500	2021-10-24	7.5	A	7.0	A	7.2	A	9.2	A	10.1	A	9.6	A	43	A	43	A	43	A	2.3	A	3.8	A	3.0	A	15.2	A	13.3	A	14.4	A	1470	A	1.91	A	0.00	A
+USGS	03451500	2021-10-25	7.3	A	7.1	A	7.2	A	9.1	A	9.8	A	9.4	A	44	A	43	A	43	A	2.4	A	3.6	A	3.0	A	15.7	A	14.2	A	15.0	A	1430	A	1.88	A	0.00	A
+USGS	03451500	2021-10-26	7.4	A	7.0	A	7.2	A	9.0	A	10.0	A	9.4	A	45	A	44	A	43	A	2.5	A	3.7	A	3.0	A	15.3	A	13.7	A	14.3	A	1410	A	1.87	A	0.00	A
+USGS	03451500	2021-10-27	7.5	A	7.1	A	7.2	A	9.3	A	10.4	A	9.7	A	44	A	44	A	43	A	1.9	A	3.6	A	2.5	A	14.0	A	12.1	A	13.0	A	1380	A	1.84	A	0.00	A
+USGS	03451500	2021-10-28	7.2	A	7.1	A	7.2	A	9.4	A	10.0	A	9.7	A	49	A	45	A	43	A	1.9	A	4.1	A	2.6	A	13.3	A	12.1	A	12.4	A	1370	A	1.84	A	0.24	A
+USGS	03451500	2021-10-29	7.2	A	7.0	A	7.1	A	9.3	A	10.0	A	9.6	A	51	A	46	A	44	A	4.1	A	12.5	A	6.5	A	12.8	A	12.0	A	12.4	A	1770	A	2.10	A	0.41	A
+USGS	03451500	2021-10-30	7.2	A	7.0	A	7.1	A	9.3	A	10.0	A	9.6	A	45	A	43	A	42	A	4.2	A	7.3	A	5.5	A	12.4	A	11.8	A	12.1	A	1740	A	2.08	A	0.06	A
+USGS	03451500	2021-10-31	7.4	A	7.0	A	7.2	A	9.4	A	10.3	A	9.8	A	43	A	42	A	42	A	2.6	A	4.7	A	3.3	A	13.1	A	11.9	A	12.4	A	1520	A	1.94	A	0.00	A
+USGS	03451500	2021-11-01	7.5	A	7.1	A	7.2	A	9.6	A	10.6	A	10.0	A	44	A	43	A	43	A	2.0	A	3.5	A	2.6	A	13.1	A	11.4	A	12.3	A	1400	A	1.86	A	0.00	A
+USGS	03451500	2021-11-02	7.4	A	7.0	A	7.2	A	9.7	A	10.6	A	10.0	A	44	A	44	A	43	A	1.8	A	3.1	A	2.2	A	12.7	A	11.4	A	11.9	A	1350	A	1.83	A	0.00	A
+USGS	03451500	2021-11-03	7.2	A	7.1	A	7.2	A	9.9	A	10.4	A	10.1	A	45	A	44	A	44	A	1.8	A	2.5	A	2.2	A	11.7	A	10.4	A	10.9	A	1320	A	1.81	A	0.00	A
+USGS	03451500	2021-11-04	7.3	A	7.1	A	7.2	A	10.1	A	10.7	A	10.4	A	48	A	46	A	44	A	2.2	A	3.4	A	2.6	A	10.4	A	9.8	A	10.1	A	1320	A	1.80	A	0.10	A
+USGS	03451500	2021-11-05	7.5	A	7.1	A	7.2	A	10.3	A	11.2	A	10.7	A	46	A	45	A	44	A	2.1	A	3.1	A	2.6	A	10.4	A	9.3	A	9.8	A	1340	A	1.82	A	0.00	A
+USGS	03451500	2021-11-06	7.5	A	7.0	A	7.2	A	10.4	A	11.4	A	10.8	A	45	A	44	A	44	A	1.9	A	5.2	A	2.7	A	9.8	A	8.4	A	9.2	A	1310	A	1.79	A	0.00	A
+USGS	03451500	2021-11-07	7.5	A	7.1	A	7.2	A	10.6	A	11.4	A	10.9	A	45	A	44	A	44	A	1.7	A	2.6	A	2.1	A	9.4	A	7.7	A	8.7	A	1270	A	1.76	A	0.00	A
+USGS	03451500	2021-11-08	7.5	A	7.1	A	7.2	A	10.6	A	11.5	A	10.9	A	45	A	45	A	44	A	1.6	A	2.8	A	2.0	A	9.7	A	7.7	A	8.9	A	1240	A	1.75	A	0.00	A
+USGS	03451500	2021-11-09	7.5	A	7.1	A	7.2	A	10.4	A	11.4	A	10.8	A	46	A	45	A	44	A	1.5	A	2.5	A	1.9	A	10.2	A	8.2	A	9.4	A	1220	A	1.73	A	0.00	A
+USGS	03451500	2021-11-10	7.5	A	7.1	A	7.2	A	10.2	A	11.2	A	10.6	A	47	A	46	A	45	A	1.8	A	2.8	A	2.1	A	11.0	A	9.1	A	10.2	A	1200	A	1.72	A	0.00	A
+USGS	03451500	2021-11-11	7.4	A	7.1	A	7.2	A	9.7	A	10.8	A	10.3	A	60	A	46	A	45	A	1.7	A	40.1	A	4.3	A	11.6	A	9.9	A	10.6	A	1210	A	1.73	A	0.53	A
+USGS	03451500	2021-11-12	7.3	A	7.0	A	7.1	A	9.6	A	10.6	A	10.0	A	60	A	49	A	46	A	6.1	A	40.1	A	11.5	A	11.9	A	10.6	A	11.3	A	1610	A	2.00	A	0.01	A
+USGS	03451500	2021-11-13	7.3	A	7.0	A	7.1	A	9.7	A	10.8	A	10.2	A	48	A	44	A	42	A	3.9	A	8.6	A	5.9	A	11.3	A	9.7	A	10.2	A	1560	A	1.97	A	0.00	A
+USGS	03451500	2021-11-14	7.4	A	7.0	A	7.2	A	10.2	A	11.3	A	10.7	A	45	A	43	A	42	A	2.5	A	4.7	A	3.3	A	9.7	A	8.0	A	8.9	A	1330	A	1.81	A	0.00	A
+USGS	03451500	2021-11-15	7.5	A	7.1	A	7.2	A	10.5	A	11.6	A	10.9	A	46	A	45	A	44	A	2.1	A	3.6	A	2.6	A	9.1	A	7.4	A	8.3	A	1240	A	1.75	A	0.00	A
+USGS	03451500	2021-11-16	7.5	A	7.0	A	7.2	A	10.7	A	11.8	A	11.1	A	47	A	46	A	45	A	1.7	A	2.7	A	2.2	A	8.8	A	7.0	A	8.0	A	1210	A	1.72	A	0.00	A
+USGS	03451500	2021-11-17	7.6	A	7.1	A	7.2	A	10.6	A	11.7	A	11.0	A	47	A	46	A	45	A	1.7	A	2.8	A	2.1	A	9.8	A	7.8	A	8.9	A	1190	A	1.71	A	0.00	A
+USGS	03451500	2021-11-18	7.4	A	7.1	A	7.2	A	10.3	A	11.3	A	10.7	A	48	A	46	A	45	A	1.7	A	2.8	A	2.2	A	10.2	A	8.7	A	9.6	A	1190	A	1.71	A	0.00	A
+USGS	03451500	2021-11-19	7.7	A	7.1	A	7.3	A	10.4	A	11.8	A	11.0	A	48	A	46	A	45	A	1.7	A	2.6	A	2.0	A	9.6	A	7.7	A	8.4	A	1170	A	1.70	A	0.00	A
+USGS	03451500	2021-11-20	7.7	A	7.1	A	7.3	A	10.8	A	12.2	A	11.4	A	47	A	46	A	45	A	1.4	A	2.5	A	1.8	A	8.0	A	6.7	A	7.5	A	1150	A	1.68	A	0.00	A
+USGS	03451500	2021-11-21	7.7	A	7.1	A	7.3	A	11.0	A	12.3	A	11.5	A	48	A	47	A	46	A	1.3	A	2.6	A	1.7	A	8.0	A	6.2	A	7.1	A	1140	A	1.67	A	0.00	A
+USGS	03451500	2021-11-22	7.7	A	7.1	A	7.2	A	10.6	A	11.7	A	11.1	A	54	A	48	A	46	A	1.5	A	2.8	A	1.9	A	8.8	A	7.5	A	8.1	A	1160	A	1.69	A	0.09	A
+USGS	03451500	2021-11-23	7.8	A	7.1	A	7.3	A	10.9	A	12.3	A	11.5	A	47	A	46	A	45	A	1.3	A	2.4	A	1.7	A	7.5	A	5.8	A	6.6	A	1150	A	1.68	A	0.00	A
+USGS	03451500	2021-11-24	7.8	A	7.1	A	7.3	A	11.3	A	12.7	A	11.9	A	48	A	47	A	46	A	1.3	A	2.0	A	1.6	A	6.5	A	5.0	A	5.9	A	1120	A	1.66	A	0.00	A
+USGS	03451500	2021-11-25	7.8	A	7.1	A	7.3	A	11.4	A	12.7	A	11.9	A	49	A	47	A	46	A	1.2	A	2.0	A	1.4	A	7.1	A	5.2	A	6.2	A	1100	A	1.64	A	0.00	A
+USGS	03451500	2021-11-26	8.0	A	7.2	A	7.4	A	10.9	A	12.4	A	11.6	A	47	A	47	A	46	A	1.3	A	1.9	A	1.5	A	7.4	A	6.0	A	6.7	A	1090	A	1.63	A	0.00	A
+USGS	03451500	2021-11-27	8.0	A	7.2	A	7.3	A	11.3	A	12.7	A	11.9	A	48	A	47	A	46	A	1.2	A	1.7	A	1.4	A	6.4	A	4.8	A	5.8	A	1070	A	1.62	A	0.00	A
+USGS	03451500	2021-11-28	8.0	A	7.1	A	7.4	A	11.2	A	12.8	A	11.9	A	47	A	46	A	46	A	1.2	A	1.6	A	1.4	A	6.2	A	5.1	A	5.8	A	1070	A	1.61	A	0.00	A
+USGS	03451500	2021-11-29	8.0	A	7.2	A	7.4	A	11.3	A	12.8	A	12.0	A	48	A	46	A	46	A	1.1	A	1.8	A	1.4	A	5.9	A	4.7	A	5.4	A	1050	A	1.60	A	0.00	A
+USGS	03451500	2021-11-30	8.0	A	7.2	A	7.3	A	11.6	A	13.0	A	12.2	A	48	A	47	A	46	A	1.2	A	1.7	A	1.4	A	5.8	A	4.1	A	5.1	A	1050	A	1.60	A	0.00	A
+USGS	03451500	2021-12-01	8.1	A	7.1	A	7.4	A	11.4	A	13.0	A	12.1	A	49	A	47	A	46	A	1.2	A	1.8	A	1.4	A	6.4	A	4.8	A	5.7	A	1040	A	1.59	A	0.00	A
